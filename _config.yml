@@ -17,8 +17,8 @@ execute:
 
 # Information about where the book exists on the web
 #repository:
-#  url: https://github.com/executablebooks/jupyter-book  # Online location of your book
-#  branch: master  # Which branch of the repository should be used when creating links (optional)
+url: https://github.com/hpc-maths/jb_amx02_2023_2024  # Online location of your book
+branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
