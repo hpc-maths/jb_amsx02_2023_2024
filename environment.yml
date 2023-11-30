@@ -1,0 +1,9 @@
+name: amsx02
+channels:
+  - conda-forge
+dependencies:
+  - jupyter-book
+  - numpy
+  - scipy
+  - plotly
+  - mpmath
